@@ -1,0 +1,28 @@
+p {
+    color: rgb(0, 60, 255);
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 100;
+    font-style: italic;
+}
+
+
+/* Styling using classes */
+
+
+/* class */
+
+.external_css {
+    color: rgb(197, 26, 189);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 100;
+    font-style: italic;
+}
+
+
+/* ID */
+
+#about {
+    color: green;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
